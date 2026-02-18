@@ -1,0 +1,4 @@
+.env
+seen_txids.txt
+__pycache__/
+*.pyc
